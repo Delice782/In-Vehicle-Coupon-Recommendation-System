@@ -33,11 +33,6 @@ The dataset contains 12,684 instances of coupon offerings with various features:
  - Model evaluation and hyperparameter tuning
  - Comprehensive performance analysis
 
-# Installation
-bashCopygit clone https://github.com/yourusername/coupon-recommendation-system.git
-cd coupon-recommendation-system
-pip install -r requirements.txt
-
 # Usage
 
 ### Option 1: Google Colab
